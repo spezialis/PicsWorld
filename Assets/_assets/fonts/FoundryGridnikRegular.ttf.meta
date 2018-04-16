@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bddd964b40a91457eae8f2a959891c81
+timeCreated: 1522013626
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FoundryGridnikRegular
+  fontNames:
+  - FoundryGridnikRegular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
